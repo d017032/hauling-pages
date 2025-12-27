@@ -54,7 +54,7 @@ h1, h2, h3 {
 .hero-section {
     /* Use the new image path */
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                url('../img/hero-truck.jpg');
+                url('../img/hero-truck.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* Remember to keep the mobile fix we added earlier! */
